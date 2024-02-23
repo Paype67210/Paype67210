@@ -5,6 +5,7 @@
 
 - 🌱 Projets actuellement en exploration : 
 
+![Pipex](https://github.com/Paype67210/Paype67210/blob/main/badges/pipexn.png)
 ![Philosopher](https://github.com/Paype67210/Paype67210/blob/main/badges/philosophersn.png)
 ![Minishell](https://github.com/Paype67210/Paype67210/blob/main/badges/minishelln.png)
 
@@ -12,12 +13,12 @@
 
 |     Projet      |           Resume               |     Points obtenus      |
 |-----------------|:------------------------------:|------------------------:|
-| <p align="center"> <a href="https://github.com/Paype67210/Libft_42_Mulhouse/" target="_blank" rel="noreferrer"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/libftm.png alt ="libft" width="60" height="60"> | **Libft :** Ce premier projet en tant qu'étudiant de 42 m'a permis de developper encore mes acquis issus de la piscine. L'objectif est de reproduire le fonctionnement de fonction de la Lib C standard et de construire ma propre librairie... a completer tout au long du cursus.  | 112 points en 3 essais |
-| <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/born2berootm.png width="80" height="80"> | Born2BeRoot |  |
-| <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/get_next_linem.png width="80" height="80"> | Get Next Line |  |
-| <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/ft_printfm.png width="80" height="80"> | Printf |  |
-| <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/push_swapm.png width="80" height="80"> | Push Swap |  |
-| <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/pipexn.png width="80" height="80"> | Pipex |  |
+| <p align="center"> <a href="https://github.com/Paype67210/Libft_42_Mulhouse/" target="_blank" rel="noreferrer"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/libftm.png alt ="libft" width="60" height="60"> | <b>Libft :</b> Ce premier projet en tant qu'étudiant de 42 m'a permis de developper encore mes acquis issus de la piscine. L'objectif est de reproduire le fonctionnement de fonction de la Lib C standard et de construire ma propre librairie... a completer tout au long du cursus.  | 112 points en 3 essais |
+| <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/born2berootm.png width="60" height="60"> | <i> <b> Born2BeRoot : </b> Upload a venir... </i> | 120 points |
+| <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/get_next_linem.png width="60" height="60"> | <i> <b> Get Next Line : </b> Upload a venir... </i> | 125 points |
+| <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/ft_printfe.png width="60" height="60"> | <i> <b> Printf : </b> Upload a venir... </i> | 100 points |
+| <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/so_longe.png width="60" height="60"> | <i> <b> So_Long : </b> Upload a venir... </i> | 100 points |
+| <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/push_swape.png width="60" height="60"> | <i> <b> Push Swap : </b> Upload a venir... </i> | 105 points |
 
 <h4 align="left">Pour retrouver mon profil:</h4>
 <p align="left">
