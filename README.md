@@ -5,7 +5,6 @@
 
 - 🌱 Projets actuellement en exploration : 
 
-![Pipex](https://github.com/Paype67210/Paype67210/blob/main/badges/pipexn.png)
 ![Philosopher](https://github.com/Paype67210/Paype67210/blob/main/badges/philosophersn.png)
 ![Minishell](https://github.com/Paype67210/Paype67210/blob/main/badges/minishelln.png)
 
@@ -19,6 +18,7 @@
 | <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/ft_printfe.png width="60" height="60"> | <i> <b> Printf : </b> Upload a venir... </i> | 100 points |
 | <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/so_longe.png width="60" height="60"> | <i> <b> So_Long : </b> Upload a venir... </i> | 100 points |
 | <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/push_swape.png width="60" height="60"> | <i> <b> Push Swap : </b> Upload a venir... </i> | 105 points |
+| <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/pipexm.png width="60" height="60"> | <i> <b> Pipex : </b> Upload a venir... </i> | 125 points |
 
 <h4 align="left">Pour retrouver mon profil:</h4>
 <p align="left">
