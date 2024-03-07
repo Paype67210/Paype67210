@@ -5,7 +5,7 @@
 
 - 🌱 Projet collaboratif personnel :
 
-| <p align="center">  <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/heap.jpg alt ="Malloc_List" width="60" height="60"> | Création de fonctions de gestion des `Malloc` & `Free` pour optimniser le suivi des allocations mémoire dynamiques. |
+| <p align="center"> <a href="https://github.com/Paype67210/Malloc_list" target="blank" rel="noreferrer"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/heap.jpg alt ="Malloc_List" width="60" height="60"> | Création de fonctions de gestion des `Malloc` & `Free` pour optimniser le suivi des allocations mémoire dynamiques. |
 |--------------------|------------------------------|
 
 - 🌱 Projets actuellement en exploration : 
