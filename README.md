@@ -5,7 +5,7 @@
 
 - 🌱 Projet collaboratif personnel :
 
-| <p align="center"> <a href="https://github.com/Paype67210/Malloc_list" target="blank" rel="noreferrer"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/heap.jpg alt ="Malloc_List" width="60" height="60"> | Création de fonctions de gestion des `Malloc` & `Free` pour optimniser le suivi des allocations mémoire dynamiques. Ca y est, le projet est abouti et les fonctions ainsi développées ont été intégrées à ma `libft`. Les mallocs sont crées et incorporés dans une liste chaînée (appelée `Ouille` ;) ) Le freeall final permet de libérer l'ensemble des allocations en un clin d'oeil... pas d'oublis, pas de doubles free... et en bonus, l'implémentation de `realloc` également|
+| <p align="center"> <a href="https://github.com/Paype67210/Malloc_list" target="blank" rel="noreferrer"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/heap.jpg alt ="Malloc_List" width="250" height="100"> | Création de fonctions de gestion des `Malloc` & `Free` pour optimniser le suivi des allocations mémoire dynamiques. Ca y est, le projet est abouti et les fonctions ainsi développées ont été intégrées à ma `libft`. Les mallocs sont crées et incorporés dans une liste chaînée (appelée `Ouille` ;) ) Le freeall final permet de libérer l'ensemble des allocations en un clin d'oeil... pas d'oublis, pas de doubles free... et en bonus, l'implémentation de `realloc` également|
 |--------------------|------------------------------|
 
 - 🌱 Projets actuellement en exploration : 
