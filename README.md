@@ -12,6 +12,7 @@
 
 ![Philosopher](https://github.com/Paype67210/Paype67210/blob/main/badges/philosophersn.png)
 ![Minishell](https://github.com/Paype67210/Paype67210/blob/main/badges/minishelln.png)
+![NetPractise](https://github.com/Paype67210/Paype67210/blob/main/badges/minishelln.png)
 
 - 🌱 Liste des projets realises :
 
@@ -24,6 +25,7 @@
 | <p align="center"> <a href="https://github.com/Paype67210/so_long_42_Mulhouse" target="blank" rel="noreferrer"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/so_longe.png width="60" height="60"> | <i> <b> So_Long : </b> Premiers pas dans l'univers du jeu avec ce projet de création d'un jeu 2D. C'est aussi l'occasion de découvrir la librairie MLX42 développée pour le cursus 42. </i> | 100 points |
 | <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/push_swape.png width="60" height="60"> | <i> <b> Push Swap : </b> Upload a venir... </i> | 105 points |
 | <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/pipexm.png width="60" height="60"> | <i> <b> Pipex : </b> Upload a venir... </i> | 125 points |
+| <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/pipexm.png width="60" height="60"> | <i> <b> Philosophers : </b> Upload a venir... </i> | 125 points |
 
 <h4 align="left">Pour retrouver mon profil:</h4>
 <p align="left">
