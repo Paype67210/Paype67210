@@ -10,8 +10,7 @@
 
 - 🌱 Projets actuellement en exploration : 
 
-![Minishell](https://github.com/Paype67210/Paype67210/blob/main/badges/minishelln.png)
-![NetPractice](https://github.com/Paype67210/Paype67210/blob/main/badges/netpracticen.png)
+![MiniRT](https://github.com/Paype67210/Paype67210/blob/main/badges/minirtn.png)
 
 - 🌱 Liste des projets realises :
 
@@ -25,6 +24,8 @@
 | <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/push_swape.png width="60" height="60"> | <i> <b> Push Swap : </b> Upload a venir... </i> | 105 points |
 | <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/pipexm.png width="60" height="60"> | <i> <b> Pipex : </b> Upload a venir... </i> | 125 points |
 | <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/philosophersm.png width="60" height="60"> | <i> <b> Philosophers : </b> Upload a venir... </i> | 125 points |
+| <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/netpracticem.png width="60" height="60"> | <i> <b> NetPractice : </b> Upload a venir... </i> | 100 points |
+| <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/minishellm.png width="60" height="60"> | <i> <b> Minishell : </b> Upload a venir... </i> | 125 points |
 
 <h4 align="left">Pour retrouver mon profil:</h4>
 <p align="left">
