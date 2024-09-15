@@ -11,6 +11,7 @@
 - 🌱 Projets actuellement en exploration : 
 
 ![MiniRT](https://github.com/Paype67210/Paype67210/blob/main/badges/minirtn.png)
+![CPP modules 00 à 09](https://github.com/Paype67210/Paype67210/blob/main/badges/cppn.png)
 
 - 🌱 Liste des projets realises :
 
