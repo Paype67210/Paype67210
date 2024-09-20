@@ -32,7 +32,7 @@
 
 <h4 align="left">Pour retrouver mon profil:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/pdeson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pdeson" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/phdeson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pdeson" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Languages & Tools:</h4>
