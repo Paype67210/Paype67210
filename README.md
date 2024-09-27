@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paype67210&label=Profile%20views&color=0e75b6&style=flat" alt="paype67210" /> </p>
 
-[![pdeson's 42 stats](https://badge.mediaplus.ma/greenbinary/pdeson)](https://github.com/oakoudad/badge42)
+[![pdeson's 42 stats](https://badge.mediaplus.ma/binary/pdeson)](https://github.com/oakoudad/badge42)
 
 - 🌱 Projet collaboratif personnel :
 
