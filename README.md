@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, je m'appelle Philippe et suis étudiant à <a href="https://www.42mulhouse.fr">42 Mulhouse</a></h1>
-<h3 align="center">Après 3 autres vies professionnelles, j'ai entamé ma reconversion professionnelle dans les métiers du numérique depuis octobre 2023</h3>
+<h1 align="center">Hello 👋, je m'appelle Philippe et suis en cours de reconversion dans les métiers du numérique depuis Octobre 2023 </h1>
+<h3 align="center">En cours de reconversion à <a href="https://www.42mulhouse.fr">42 Mulhouse</a>, je développe des compétences solides en programmation (C, C++), administration système Unix, et containérisation. Avec une expérience significative en management technique et amélioration continue, je suis à la recherche d'une alternance en IA, informatique embarquée ou cybersécurité, où je peux mettre à profit mes aptitudes en gestion de projets pour contribuer à l'innovation et à la sécurité des systèmes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paype67210&label=Profile%20views&color=0e75b6&style=flat" alt="paype67210" /> </p>
 
