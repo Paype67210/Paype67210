@@ -12,8 +12,7 @@
 
 - 🌱 Projets actuellement en exploration : 
 
-![MiniRT](https://github.com/Paype67210/Paype67210/blob/main/badges/minirtn.png)
-![CPP modules 00 à 09](https://github.com/Paype67210/Paype67210/blob/main/badges/cppn.png)
+![WebServ](https://github.com/Paype67210/Paype67210/blob/main/badges/webservn.png)
 
 - 🌱 Liste des projets realises :
 
@@ -29,6 +28,9 @@
 | <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/philosophersm.png width="60" height="60"> | <i> <b> Philosophers : </b> Upload a venir... </i> | 125 points |
 | <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/netpracticem.png width="60" height="60"> | <i> <b> NetPractice : </b> Upload a venir... </i> | 100 points |
 | <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/minishellm.png width="60" height="60"> | <i> <b> Minishell : </b> Upload a venir... </i> | 125 points |
+| <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/cppm.png width="60" height="60"> | <i> <b> CPP : </b> Upload a venir... </i> | 100 points |
+| <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/minirtm.png width="60" height="60"> | <i> <b> MiniRT : </b> Upload a venir... </i> | 125 points |
+| <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/inceptionm.png width="60" height="60"> | <i> <b> Inception : </b> Upload a venir... </i> | 125 points |
 
 <h4 align="left">Pour retrouver mon profil:</h4>
 <p align="left">
