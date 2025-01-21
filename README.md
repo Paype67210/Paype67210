@@ -29,7 +29,7 @@
 | <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/netpracticem.png width="60" height="60"> | <i> <b> NetPractice : </b> Upload a venir... </i> | 100 points |
 | <p align="center"> <a href="https://github.com/Paype67210/minishell_42_Mulhouse" target="_blank" rel="noreferrer"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/minishellm.png width="60" height="60"> | **Minishell** est un projet qui consiste à recréer un shell minimaliste, offrant une introduction pratique aux concepts fondamentaux de la programmation système et de l'interaction avec le noyau Unix. | 125 points |
 | <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/cppm.png width="60" height="60"> | <i> <b> CPP : </b> Upload a venir... </i> | 100 points |
-| <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/minirtm.png width="60" height="60"> | <i> <b> MiniRT : </b> Upload a venir... </i> | 125 points |
+| <p align="center"> <a href="https://github.com/Paype67210/miniRT_42_Mulhouse" target="_blank" rel="noreferrer"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/minirtm.png width="60" height="60"> | **MiniRT** est le premier projet graphique qui consiste à développer un moteur de rendu 3D simple, basé sur la technique du ray tracing. C'est une introduction au monde de la programmation graphique, offrant un aperçu des algorithmes utilisés pour générer des images réalistes. | 125 points |
 | <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/inceptionm.png width="60" height="60"> | <i> <b> Inception : </b> Upload a venir... </i> | 125 points |
 
 <h4 align="left">Pour retrouver mon profil:</h4>
