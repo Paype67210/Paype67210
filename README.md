@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, je m'appelle Philippe et suis en cours de reconversion dans les métiers du numérique depuis Octobre 2023 </h1>
-<h3 align="center">En cours de reconversion à <a href="https://www.42mulhouse.fr">42 Mulhouse</a>, je développe des compétences solides en programmation (C, C++), administration système Unix, et containérisation. Avec une expérience significative en management technique et amélioration continue, je suis à la recherche d'une alternance en IA, informatique embarquée ou cybersécurité, où je peux mettre à profit mes aptitudes en gestion de projets pour contribuer à l'innovation et à la sécurité des systèmes.</h3>
-
+<h3 align="center">En cours de finalisation du cursus de <a href="https://www.42mulhouse.fr">42 Mulhouse</a>, je poursuis ma reconversion chez <a href="https://www.epitech.eu/formation-alternance/master-of-science-cloud/">Epitech Strasbourg</a> pour parfaire mes compétences en programmation (C, C++), administration système Unix, et containérisation.
+Avec une expérience significative en management technique et amélioration continue, je suis à la recherche d'une alternance de 24 mois en architecture cloud DevSecOps ou administration systèmes & réseaux.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paype67210&label=Profile%20views&color=0e75b6&style=flat" alt="paype67210" /> </p>
 
 [![pdeson's 42 stats](https://badge.mediaplus.ma/binary/pdeson)](https://github.com/oakoudad/badge42)
