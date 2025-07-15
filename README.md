@@ -5,16 +5,41 @@ Avec une expérience significative en management technique et amélioration cont
 
 [![pdeson's 42 stats](https://badge.mediaplus.ma/binary/pdeson)](https://github.com/oakoudad/badge42)
 
-- 🌱 Projet collaboratif personnel :
+# 🌱 Projets collaboratifs personnels :
 
-| <p align="center"> <a href="https://github.com/Paype67210/Malloc_list" target="blank" rel="noreferrer"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/heap.jpg alt ="Malloc_List" width="250" height="100"> | Création de fonctions de gestion des `Malloc` & `Free` pour optimniser le suivi des allocations mémoire dynamiques. Ca y est, le projet est abouti et les fonctions ainsi développées ont été intégrées à ma `libft`. Les mallocs sont crées et incorporés dans une liste chaînée (appelée `Ouille` ;) ) Le freeall final permet de libérer l'ensemble des allocations en un clin d'oeil... pas d'oublis, pas de doubles free... et en bonus, l'implémentation de `realloc` également|
-|--------------------|------------------------------|
+## 🧠 Malloc_list – Gestion dynamique de la mémoire en C
 
-- 🌱 Projets actuellement en exploration : 
+Ce projet personnel a été conçu pour **simplifier et fiabiliser la gestion de la mémoire dynamique** en langage C. Il repose sur une **implémentation personnalisée de `malloc`, `realloc` et `free`**, basée sur une **structure de liste chaînée**.
+
+### 🔗 Lien vers le projet
+
+👉 <a href="https://github.com/Paype67210/Malloc_list">Consulter le dépôt GitHub</a>
+
+## 🧠 Docker Canary - SaaS d'analyse des images Docker
+
+Docker Canary est un scanner intelligent d’images Docker. Il détecte les vulnérabilités, binaires suspects, fichiers sensibles et packages inutiles, tout en proposant des recommandations pour réduire la taille de vos images.
+
+👉 <a href="https://github.com/Paype67210/Docker_Canary">Consulter le dépôt GitHub</a>
+
+## 🧠 VM TrafficSentinel - Agent de surveillance d'un réseau domestique
+
+Ce projet consiste en la mise en place d'une machine virtuelle Ubuntu sur un serveur Freebox pour surveiller et sécuriser le trafic réseau domestique. Il inclut la gestion d'une liste blanche d'adresses MAC autorisées en connexion filaire, la surveillance des accès Wi-Fi invités, et la détection d'activités suspectes sur le réseau local privé avec envoi d'alertes via webhook sur Slack. Une interface web d'administration est également prévue pour gérer les adresses MAC et surveiller le réseau.
+
+👉 <a href="https://github.com/Paype67210/TrafficSentinel">Consulter le dépôt GitHub</a>
+
+## 🧠 Virtual Gift - Projet autour des NFT, de la blockchain et des cryptomonnaies
+
+Description du projet en cours de réalisation
+
+---
+Ces projets s'inscrivent dans ma démarche de montée en compétences vers les métiers de la **cybersécurité** et de l'**architecture logicielle**, en lien avec ma formation à l'école 42 et mes projets personnels.
+
+
+# 🌱 Projets actuellement en exploration : 
 
 ![ft_Transcendence](https://github.com/Paype67210/Paype67210/blob/main/badges/ft_transcendencen.png)
 
-- 🌱 Liste des projets realises :
+# 🌱 Liste des projets réalisés :
 
 |     Projet      |           Resume               |     Points obtenus      |
 |-----------------|:------------------------------:|------------------------:|
