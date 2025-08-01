@@ -37,7 +37,7 @@ Ces projets s'inscrivent dans ma démarche de montée en compétences vers les m
 
 # 🌱 Projets actuellement en exploration : 
 
-![ft_Transcendence](https://github.com/Paype67210/Paype67210/blob/main/badges/ft_transcendencen.png)
+![Piscine Python for DataScience](https://github.com/Paype67210/Paype67210/blob/main/badges/ft_transcendencen.png)
 
 # 🌱 Liste des projets réalisés :
 
@@ -57,6 +57,7 @@ Ces projets s'inscrivent dans ma démarche de montée en compétences vers les m
 | <p align="center"> <a href="https://github.com/Paype67210/mini_RT_42_Mulhouse" target="_blank" rel="noreferrer"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/minirtm.png width="60" height="60"> | **MiniRT** est le premier projet graphique qui consiste à développer un moteur de rendu 3D simple, basé sur la technique du ray tracing. C'est une introduction au monde de la programmation graphique, offrant un aperçu des algorithmes utilisés pour générer des images réalistes. | 125 points |
 | <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/inceptionm.png width="60" height="60"> | <i> <b> Inception : </b> Upload a venir... </i> | 125 points |
 | <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/webservm.png width="60" height="60"> | <i> <b> WebServ : </b> Upload a venir... </i> | 125 points |
+| <p align="center"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/ft_transcendencem.png width="60" height="60"> | <i> <b> ft_Transcendence : </b> Upload a venir... </i> | 123 points |
 
 <h4 align="left">Pour retrouver mon profil:</h4>
 <p align="left">
