@@ -37,7 +37,9 @@ Ces projets s'inscrivent dans ma démarche de montée en compétences vers les m
 
 # 🌱 Projets actuellement en exploration : 
 
-![Piscine Python for DataScience](https://github.com/Paype67210/Paype67210/blob/main/badges/ft_transcendencen.png)
+Le tronc commun est maintenant fini pour moi... Il me reste à explorer les options... en commençant par le **Python** dans le cadre de la **DataScience**.
+
+![Piscine Python for DataScience](https://github.com/Paype67210/Paype67210/blob/main/badges/common_coree.png)
 
 # 🌱 Liste des projets réalisés :
 
