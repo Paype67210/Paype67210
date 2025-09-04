@@ -45,7 +45,7 @@ Après une première **Piscine en Python**, je poursuis sur le sujet **Datascien
 
 |     Projet      |           Resume               |     Points obtenus      |
 |-----------------|:------------------------------:|------------------------:|
-| <p align="center"> <a href="https://github.com/Paype67210/Python4Datascience/" target="_blank" rel="noreferrer"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/phase_onee.png alt ="Python" width="60" height="60"> | **Piscine Python for Datascience :** Description et upload à venir.  | 100 points |
+| <p align="center"> <a href="https://github.com/Paype67210/Python4Datascience/" target="_blank" rel="noreferrer"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/phase_onee.png alt ="Python" width="60" height="60"> | **Piscine Python for Datascience :** Initie aux fondamentaux de Python appliqués à la data science, à travers des défis pratiques en manipulation de données, visualisation et algorithmes. | 100 points |
 
 
 # 🌱 Liste des projets du Tronc commun :
