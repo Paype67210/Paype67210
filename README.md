@@ -37,11 +37,18 @@ Ces projets s'inscrivent dans ma démarche de montée en compétences vers les m
 
 # 🌱 Projets actuellement en exploration : 
 
-Le tronc commun est maintenant fini pour moi... Il me reste à explorer les options... en commençant par le **Python** dans le cadre de la **DataScience**.
+Après une première **Piscine en Python**, je poursuis sur le sujet **Datascience**.
 
-![Piscine Python for DataScience](https://github.com/Paype67210/Paype67210/blob/main/badges/common_coree.png)
+![Piscine DataScience](https://github.com/Paype67210/Paype67210/blob/main/badges/phase_twoe.png)
 
-# 🌱 Liste des projets réalisés :
+# 🌱 Projets post Tronc Commun réalisés :
+
+|     Projet      |           Resume               |     Points obtenus      |
+|-----------------|:------------------------------:|------------------------:|
+| <p align="center"> <a href="https://github.com/Paype67210/Python4Datascience/" target="_blank" rel="noreferrer"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/phase_onee.png alt ="Python" width="60" height="60"> | **Piscine Python for Datascience :** Description et upload à venir.  | 100 points |
+
+
+# 🌱 Liste des projets du Tronc commun :
 
 |     Projet      |           Resume               |     Points obtenus      |
 |-----------------|:------------------------------:|------------------------:|
