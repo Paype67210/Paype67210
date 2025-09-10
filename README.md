@@ -3,7 +3,7 @@
 Avec une expérience significative en management technique et amélioration continue, je suis à la recherche d'une alternance de 24 mois en architecture cloud DevSecOps ou administration systèmes & réseaux.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paype67210&label=Profile%20views&color=0e75b6&style=flat" alt="paype67210" /> </p>
 
-[![pdeson's 42 stats](https://badge.mediaplus.ma/binary/pdeson)](https://github.com/oakoudad/badge42)
+[![pdeson's 42 stats](https://badge.mediaplus.ma/greenbinary/pdeson?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 # 🌱 Projets collaboratifs personnels :
 
