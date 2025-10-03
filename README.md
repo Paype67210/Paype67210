@@ -78,4 +78,4 @@ Après une première **Piscine en Python**, je poursuis sur le sujet **Datascien
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paype67210&show_icons=true&locale=en&layout=compact" alt="paype67210" /></p>
 
-![Snake animation](https://github.com/Paype67210/Paype67210/blob/main/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Paype67210/Paype67210/blob/output/dist/github-contribution-grid-snake.svg)
