@@ -22,6 +22,6 @@ jobs:
       - name: Push SVG to the output branch
         uses: EndBug/add-and-commit@v9
         with:
-          branch: output
+          branch: main
           message: "Generate contribution snake animation"
           add: "dist/*.svg"
