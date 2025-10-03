@@ -12,8 +12,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout main branch
         uses: actions/checkout@v3
+        with:
+          ref: main
+          fetch-depth: 0   # <-- Important pour permettre le push
 
       - name: Generate Snake SVG
         uses: Platane/snk@v3
