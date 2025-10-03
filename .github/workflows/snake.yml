@@ -12,11 +12,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout main branch
+      - name: Checkout output branch
         uses: actions/checkout@v3
         with:
-          ref: main
-          fetch-depth: 0   # <-- Important pour permettre le push
+          ref: output
+          fetch-depth: 0
 
       - name: Generate Snake SVG
         uses: Platane/snk@v3
@@ -26,9 +26,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push SVG to main branch
+      - name: Push SVG to output branch
         uses: EndBug/add-and-commit@v9
         with:
-          push: main
+          push: output
           message: "Generate contribution snake animation"
           add: "dist/*.svg"
