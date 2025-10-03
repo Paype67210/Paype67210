@@ -20,15 +20,15 @@ jobs:
           create_branch: true
 
       - name: Generate Snake SVG
-          uses: Platane/snk@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-contribution-grid-snake-blue.svg?
-                palette=#003366,#1a759f,#189ad3,#9cd9f0
-                &size=18
-                &rounded=true
-                &speed=1.2
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake-blue.svg?
+              palette=#003366,#1a759f,#189ad3,#9cd9f0
+              &size=18
+              &rounded=true
+              &speed=1.2
 
       - name: Push SVG to output branch
         uses: EndBug/add-and-commit@v9
