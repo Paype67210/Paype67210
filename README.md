@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋, je m'appelle Philippe et suis en cours de reconversion dans les métiers du numérique depuis Octobre 2023 </h1>
-<h3 align="center">En cours de finalisation du cursus de <a href="https://www.42mulhouse.fr">42 Mulhouse</a>, je poursuis ma reconversion chez <a href="https://www.epitech.eu/formation-alternance/master-of-science-cloud/">Epitech Strasbourg</a> pour parfaire mes compétences en programmation (C, C++), administration système Unix, et containérisation.
-Avec une expérience significative en management technique et amélioration continue, je suis à la recherche d'une alternance de 24 mois en architecture cloud DevSecOps ou administration systèmes & réseaux.</h3>
+<h3 align="center">En cours de finalisation du cursus de <a href="https://www.42mulhouse.fr">42 Mulhouse</a>, je poursuis ma reconversion chez <a href="https://www.epitech.eu/formation-alternance/master-of-science-cloud/">Epitech Strasbourg</a> pour parfaire mes compétences en programmation (C, C++), administration système Unix, et containérisation.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paype67210&label=Profile%20views&color=0e75b6&style=flat" alt="paype67210" /> </p>
 
 [![pdeson's 42 stats](https://badge.mediaplus.ma/greenbinary/pdeson?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
@@ -27,19 +26,25 @@ Ce projet consiste en la mise en place d'une machine virtuelle Ubuntu sur un ser
 
 👉 <a href="https://github.com/Paype67210/TrafficSentinel">Consulter le dépôt GitHub</a>
 
-## 🧠 Virtual Gift - Projet autour des NFT, de la blockchain et des cryptomonnaies
+## 🧠 Crypto_Bot - Bot de surveillance des cryptomonnaies + IA Agentique
+
+Ce projet consiste en la mise en place d'une machine virtuelle Ubuntu sur un serveur Freebox pour surveiller l'évolution des cryptomonnaies ainsi que la température des réseaux sociaux pour proposer des investissements réguliers et de l'arbitrage trimestriel pour maximiser le rendement d'un portefeuille dont les données seront collectées par API.
+
+👉 A venir...
+
+## 🧠 NFTera - Projet autour de l'art et des NFT
 
 Description du projet en cours de réalisation
 
 ---
-Ces projets s'inscrivent dans ma démarche de montée en compétences vers les métiers de la **cybersécurité** et de l'**architecture logicielle**, en lien avec ma formation à l'école 42 et mes projets personnels.
+Ces projets s'inscrivent dans ma démarche de montée en compétences vers les métiers de la **cybersécurité** et de l'**ardminitration système cloud**, en lien avec ma formation à Epitech Strasbourg et mes projets personnels.
 
 
 # 🌱 Projets actuellement en exploration : 
 
-Après une première **Piscine en Python**, je poursuis sur le sujet **Datascience**.
+Premier projet de groupe **Time Management** : l'objectif est de développer une PaaS de pointage et de suivi du temps travaillé.
 
-![Piscine DataScience](https://github.com/Paype67210/Paype67210/blob/main/badges/phase_twoe.png)
+En parallèle, j'ai également participé à un **Hackathon** sur le Thème de l'**eau** et un second sur le thème de la **Santé** mais je vous en reparle plus tard :)
 
 # 🌱 Projets post Tronc Commun réalisés :
 
