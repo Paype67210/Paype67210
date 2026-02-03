@@ -1,8 +1,12 @@
 # 🎓 Cursus 42 Mulhouse
 
-<a href="https://www.credly.com/badges/11040887-3e1d-4883-a759-34e5d4b0760f/public_url" target="_blank" rel="noreferrer"> <img src=https://github.com/Paype67210/blob/main/badges/Badge_Credly_42.png alt="Badge_42" width="60" height="60">
+En Août 2025, à l'issue du tronc commun, j'ai obtenu le badge 42 qui équivaut à un niveau Bac + 3. Au delà du niveau, ce badge valide :
+- Des **compétences techniques** (C, C++, Python, JavaScript, TypeScript, Bash...)
+- Des **SoftSkills** (Adaptabilité, méthodes de résolution de problèmes, Collaboration & travail d'équipe)
 
-[![pdeson's 42 stats](https://badge.mediaplus.ma/greenbinary/pdeson?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+Ces compétences ont été obtenues au travers de la pédagogie de l'école et des **16 projets** réalisés au sein du cursus.
+
+<a href="https://www.credly.com/badges/11040887-3e1d-4883-a759-34e5d4b0760f/public_url" target="_blank" rel="noreferrer"> <img src=https://github.com/Paype67210/Paype67210/blob/main/badges/Badge_Credly_42.png alt="Badge_42" width="240" height="240">
 
 # 🌱 Projets post Tronc Commun réalisés :
 
