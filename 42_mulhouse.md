@@ -1,6 +1,6 @@
 # 🎓 Cursus 42 Mulhouse
 
-<a href="https://www.credly.com/badges/11040887-3e1d-4883-a759-34e5d4b0760f/public_url" target="_blank" rel="noreferrer">Badge 42
+<a href="https://www.credly.com/badges/11040887-3e1d-4883-a759-34e5d4b0760f/public_url" target="_blank" rel="noreferrer"> <img src=https://github.com/Paype67210/blob/main/badges/Badge_Credly_42.png alt="Badge_42" width="60" height="60">
 
 [![pdeson's 42 stats](https://badge.mediaplus.ma/greenbinary/pdeson?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
