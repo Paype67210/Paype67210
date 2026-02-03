@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, je m'appelle Philippe et suis en cours de reconversion dans les métiers du numérique depuis Octobre 2023 </h1>
-<h3 align="center">En cours de finalisation du cursus de <a href="https://www.42mulhouse.fr">42 Mulhouse</a>, je poursuis ma reconversion chez <a href="https://www.epitech.eu/formation-alternance/master-of-science-cloud/">Epitech Strasbourg</a> pour parfaire mes compétences en programmation (C, C++), administration système Unix, et containérisation.</h3>
+<h3 align="center">Après le tronc commun de <a href="https://www.42mulhouse.fr">42 Mulhouse</a>, je poursuis ma reconversion chez <a href="https://www.epitech.eu/formation-alternance/master-of-science-cloud/">Epitech Strasbourg</a> pour parfaire mes compétences en architecture cloud et cybersécurité</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paype67210&label=Profile%20views&color=0e75b6&style=flat" alt="paype67210" /> </p>
 
 [![pdeson's 42 stats](https://badge.mediaplus.ma/greenbinary/pdeson?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
@@ -34,7 +34,16 @@ Ce projet consiste en la mise en place d'une machine virtuelle Ubuntu sur un ser
 
 ## 🧠 NFTera - Projet autour de l'art et des NFT
 
-Description du projet en cours de réalisation
+Initialement, NFTera était ma proposition de Projet de fin d'études en MSc Epitech. Finalement, il n'a pas été sélectionné par la communauté, mais je le garde car je suis convainxu qu'il va révolutionner l'art numérique en offrant une plateforme tout-en-un pour créer, collectionner et exposer des œuvres sous forme de NFT. Avec des interfaces dédiées aux artistes, collectionneurs, galeries et mécènes, NFTera allie blockchain, galeries 3D et réalité augmentée pour rendre l'art accessible, traçable et valorisant.
+
+👉 <a href="https://github.com/Paype67210/NFTera">Consulter le dépôt GitHub</a>
+
+## 🧠 Croque IT - Projet autour du Troc d'objets
+
+Application mobile visant à moderniser le troc d’objets et de services en répondant aux freins majeurs : **manque de confiance** et **complexité des échanges**.
+L’objectif est de rendre le troc **simple, sécurisé et intégré** aux habitudes des 18–35 ans, sensibles à l’écologie et au pouvoir d’achat.
+
+👉 A venir...
 
 ---
 Ces projets s'inscrivent dans ma démarche de montée en compétences vers les métiers de la **cybersécurité** et de l'**ardminitration système cloud**, en lien avec ma formation à Epitech Strasbourg et mes projets personnels.
